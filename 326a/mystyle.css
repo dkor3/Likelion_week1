@@ -1,0 +1,49 @@
+.a{
+width: 300px;
+height: 500px;
+border-radius: 2em;
+border-style: solid;
+border-width: 4px;
+border-color: lightgray;
+text-align:center;
+}
+
+.b{
+width: 300px;
+height: 200px;
+background-color:blue;
+padding-top:50px;
+border-top-left-radius: 2em;
+border-top-right-radius: 2em;
+}
+.c{
+font-family: 'Indie Flower', cursive;
+text-align: center;
+
+}
+.d{
+margin-left: 50px;
+margin-right: 50px;
+}
+.e{
+margin-left: 25px;
+margin-right: 25px;
+
+}
+.f{
+width: 260px;
+height: 100px;
+border-width:2px;
+border-style: solid;
+border-bottom-color:gray;
+border-top-color:white;
+border-right-color:white;
+border-left-color:white;
+display: inline-block;
+}
+
+.img{
+width: 100px;
+height: 100px;
+border-radius: 50px 50px 50px 50px;
+}
